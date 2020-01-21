@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Wicklow Tour.unity
+    guid: 50212324d317bd54ba2fd08b8f1eea87
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: f9b2bf540de447143a2109ca50104be3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cae40b022de6c70499725f1a63832059,
+      type: 2}
