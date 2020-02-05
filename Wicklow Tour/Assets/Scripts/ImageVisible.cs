@@ -22,7 +22,7 @@ public class ImageVisible : MonoBehaviour
     {
         if(image != null)
         {
-            image.SetActive(false);
+            image.SetActive(true);
         }
     }
 
