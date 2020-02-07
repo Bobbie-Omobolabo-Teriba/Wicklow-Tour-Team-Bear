@@ -643,10 +643,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: b1bf0306-eebd-4c92-93e1-84fd405e44d3
+  cloudProjectId: 20d25099-dbe5-4d1a-9f03-fd048e063894
   framebufferDepthMemorylessMode: 0
-  projectName: Wicklow Tour
-  organizationId: bbteriba
+  projectName: Wicklow Tour (1)
+  organizationId: rabbybikunda
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

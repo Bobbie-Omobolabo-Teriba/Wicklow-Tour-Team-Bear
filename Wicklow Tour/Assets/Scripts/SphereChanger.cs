@@ -10,7 +10,7 @@ public class SphereChanger : MonoBehaviour {
     GameObject m_Fader;
 
     //This ensures that we don't mash to change spheres
-    bool changing = false;
+    //bool changing = false;
 
 
     void Awake()
