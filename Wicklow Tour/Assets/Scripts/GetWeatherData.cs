@@ -53,7 +53,7 @@ public class GetWeatherData : MonoBehaviour
     public void talk()
     {
         Debug.Log("Weather button clicked");
-        Speak("The current weather is 55 degrees");
+        Speak("The current weather is 4 degrees");
         
         //Speak(name);
     }
