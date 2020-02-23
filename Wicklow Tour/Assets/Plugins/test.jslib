@@ -1,5 +1,4 @@
-  
- var LibraryMyPlugin ={
+var LibraryMyPlugin ={
  $MyData: {
        reading: false,
        timer: 0,
@@ -20,10 +19,6 @@
     MyData.reading = false;
     clearInterval(MyData.timer);
   };
-
-  msg.onpause = function(e) {};
-
-  msg.onboundary = function(event) {};
 
   msg.onend = function(e) {
     console.log("On end...");
@@ -73,6 +68,11 @@
     };
 
    
+}
+else
+{
+    speechSynthesis.cancel();
+    reading = false;
 };
     
   }
